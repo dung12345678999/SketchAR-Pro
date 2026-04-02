@@ -1076,3 +1076,4 @@ mlion.io, 115104695, RESELLER
 video.unrulymedia.com, 505354689, RESELLER
 conversantmedia.com, 100791, RESELLER, 03113cd04947736d
 themediagrid.com, NG9STC, DIRECT, 35d5010d7789b49d
+google.com, pub-7526285253397422, DIRECT, f08c47fec0942fa0
